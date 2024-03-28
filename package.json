@@ -1,0 +1,27 @@
+{
+  "name": "kenyacountiesdb",
+  "version": "1.0.0",
+  "description": "Kenya Counties Db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Kenya",
+    "counties",
+    "db",
+    "kenya",
+    "wards",
+    "db",
+    "kenya",
+    "counties",
+    "mongo",
+    "db",
+    "kenya",
+    "subcounties",
+    "db"
+  ],
+  "author": "John Mwanyika",
+  "license": "ISC",
+  "type": "module"
+}
